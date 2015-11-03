@@ -1,0 +1,17 @@
+eth0,
+eth0:X eth0:0,eth0:1....
+
+config2:
+
+ifcfg-ethx:y
+
+
+device=ethx:y
+bootproto={none|static}
+IPADDR=
+NETMASK=
+ONBOOT=
+USERCTL=
+
+Single port config multi address.
+
